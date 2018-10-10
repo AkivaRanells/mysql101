@@ -1,0 +1,1 @@
+SELECT name city, street FROM People WHERE name like"joe %" AND streetNumber>122 ORDER BY street, city DESC;
